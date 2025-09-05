@@ -8,7 +8,7 @@
 
 ### More About Me...
 📍 Chicago, Illinois <br>
-🎒 DePaul University (Pursuing BS, Computer Science) <br>
+🎒 DePaul University (BS, Computer Science) <br>
 
 
 
