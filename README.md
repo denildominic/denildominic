@@ -9,6 +9,7 @@
 ### More About Me...
 📍 Chicago, Illinois <br>
 🎒 DePaul University (BS, Computer Science) <br>
+   Concentration in Software Engineering<br>
 
 
 
