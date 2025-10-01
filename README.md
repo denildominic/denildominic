@@ -3,7 +3,7 @@
 <h1 align=center>I'm Denil Dominic</h1>
 
 ### I am an...
-💻 Aspiring Software Engineer and a recent graduate in Computer Science from DePaul University<br>
+💻 Aspiring Software Engineer and a recent graduate in Computer Science from DePaul University.<br>
 
 
 ### More About Me...
