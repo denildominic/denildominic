@@ -44,7 +44,7 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Core Competencies
-AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git
+AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub
 
 ### Reach Out...
 
