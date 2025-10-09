@@ -48,6 +48,17 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Professional Portfolio](https://github.com/denildominic/denil-portfolio) | Modern portfolio featuring server-side rendering and motion effects | Next.js 14, TypeScript, Mdx |
+| [ByteBudget Budget App](https://github.com/denildominic/Budget_App.git) | Budget tracking app| Next.js, TypeScript, Tailwind CSS, shadcn/ui |
+| [ChiCommute App](https://github.com/denildominic/Chicago_College_Commuters.git) | Modern, mobile-responsive website built to support daily commuters in Chicago by providing real-time tracking for CTA buses and 'L' trains, with future plans to support Metra lines| Next.js, Tailwind CSS, shadcn/ui |
+
+
+---
+
 ### Core Competencies
 AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ
 
