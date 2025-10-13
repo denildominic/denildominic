@@ -4,6 +4,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denildominic&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Denil's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denildominic&layout=compact&langs_count=7&theme=radical&hide=Jupyter%20Notebook"/>
   
 </div>
 
