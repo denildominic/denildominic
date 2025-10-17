@@ -9,7 +9,7 @@
 </div>
 
 ### I am an...
-💻 Aspiring Software Engineer and a recent graduate in Computer Science from DePaul University.<br>
+💻 Aspiring Software Developer and a recent graduate in Computer Science from DePaul University.<br>
 
 
 ### More About Me...
