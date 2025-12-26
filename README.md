@@ -62,7 +62,7 @@
 
 ---
 
-### Core Competencies
+### Core Skills
 AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ
 
 ### Reach Out...
