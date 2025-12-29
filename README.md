@@ -77,7 +77,6 @@ AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions,
 </a>
 
   
-  
 
   
 </div>
