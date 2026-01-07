@@ -64,7 +64,7 @@
 ---
 
 ### Core Skills
-AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ
+AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ, VSCode
 
 ### Reach Out...
 
