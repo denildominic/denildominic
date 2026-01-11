@@ -58,7 +58,7 @@
 | [Professional Portfolio](https://github.com/denildominic/denil-portfolio) | Modern portfolio featuring server-side rendering and motion effects | Next.js 14, TypeScript, Mdx |
 | [ByteBudget Budget App](https://github.com/denildominic/Budget_App.git) | Budget tracking app| Next.js, TypeScript, Tailwind CSS, shadcn/ui |
 | [ChiCommute App](https://github.com/denildominic/Chicago_College_Commuters.git) | Modern, mobile-responsive website built to support daily commuters in Chicago by providing real-time tracking for CTA buses and 'L' trains, with future plans to support Metra lines| Next.js, Tailwind CSS, shadcn/ui |
-| [Work-desk Reservation System](https://github.com/denildominic/Work-Desk-Reservation.git) | Work Desk Reservation System | Java, Spring Boot, OAuth 2.0, AWS, Apache Kafka, PostgreSQL, Tailwind CSS |
+| [Work-desk Reservation System](https://github.com/denildominic/Work-Desk-Reservation.git) | Work Desk Reservation System | Java, Spring Boot, OAuth 2.0, AWS, Apache Kafka, PostgreSQL, Tailwind |
 
 
 ---
