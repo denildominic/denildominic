@@ -8,7 +8,7 @@
   
 </div>
 
-### I am an...
+### I am a...
 💻 Recent graduate in Computer Science from DePaul University in Chicago.<br>
 
 
