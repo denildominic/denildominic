@@ -13,7 +13,7 @@
 
 
 ### More About Me...
-📍 Chicago, Illinois <br>
+📍 Park City, Illinois <br>
 🎒 DePaul University (BS, Computer Science) <br>
    Concentration in Software Development<br>
 
