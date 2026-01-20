@@ -14,7 +14,7 @@
 
 ### More About Me...
 📍 Park City, Illinois <br>
-🎒 DePaul University (BS, Computer Science) <br>
+🎒 DePaul University (Bachelor's, Computer Science) <br>
    Concentration in Software Development<br>
 
 
