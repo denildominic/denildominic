@@ -58,8 +58,8 @@
     alt="jenkins" />
 </p>
 
-<h3 align="center">Preferred IDEs & Tools :</h3>
-<p align="center">
+<h3>IDEs & Tools</h3>
+<p>
   <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"
     alt="eclipse IDE" />
   <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
