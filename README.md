@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=denildominic&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
 ### I am a..
-💻 Recent graduate in Computer Science from DePaul University in Chicago.<br>
+💻 Recent graduate in Computer Science from DePaul University in Chicago<br>
 
 
 ### More About Me...
