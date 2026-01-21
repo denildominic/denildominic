@@ -80,7 +80,7 @@
   
 </p>
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -89,7 +89,6 @@
 | [ByteBudget Budget App](https://github.com/denildominic/Budget_App.git) | Budget tracking app| Next.js, TypeScript, Tailwind CSS, shadcn/ui |
 | [JobLedger](https://jobledger.vercel.app) | Job Tracking Application | Next.js, TypeScript, Tailwind CSS |
 | [Work-desk Reservation System](https://github.com/denildominic/Work-Desk-Reservation.git) | Work Desk Reservation System | Java, Spring Boot, OAuth 2.0, AWS, Apache Kafka, PostgreSQL, Tailwind |
-
 
 ---
 
