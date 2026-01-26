@@ -94,7 +94,7 @@ Actively looking for Entry Level Software Development positions.
 ---
 
 ### Core Skills
-AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ, VS Code
+AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ
 
 ### Reach Out...
 
