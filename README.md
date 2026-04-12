@@ -94,7 +94,7 @@ Actively looking for Entry Level Software Development and Data Analytics positio
 ---
 
 ### Core Skills
-AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ, VSCode
+AWS, Jira, Agile Methodologies, DevOps, Artificial Intelligence, Github Actions, Git, GitHub, IntelliJ, VS Code
 
 ### Reach Out...
 
