@@ -10,7 +10,7 @@
 
 ### I am a..
 Recent graduate in Computer Science with Software Development Concentration from DePaul University in Chicago.<br>
-Actively looking for Entry Level Software Development and Data Analytics positions.
+Actively looking for Entry Level Software Development and Entry Level Data Analytics positions.
 
 
 ### More About Me...
