@@ -49,6 +49,8 @@ Actively looking for Entry Level Software Development and Data Analytics positio
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"
     alt="reactnative" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=white"
+    alt="shadcnui" />
 
 <h3>Version Control & CI/CD</h3>
 <p>
