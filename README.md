@@ -16,7 +16,7 @@ Actively looking for Entry Level Software Development and Entry Level Data Analy
 ### More About Me...
 📍 Park City, Illinois <br>
 🎒 DePaul University (Bachelor's, Computer Science) <br>
-   Concentration in Software Development.<br>
+    Concentration in Software Development.<br>
 
 
 
