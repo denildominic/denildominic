@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=denildominic&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
 ### I am a..
-Recent graduate in Computer Science with Software Development Concentration from DePaul University in Chicago.<br>
+Graduate in Computer Science with Software Development Concentration from DePaul University in Chicago.<br>
 Actively looking for Entry Level Software Development and Entry Level Data Analytics positions.
 
 
