@@ -1,8 +1,7 @@
 # Hey 👋 I'm Denil Dominic
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denildominic&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Denil's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denildominic"/>
+
   
 </div>
 
