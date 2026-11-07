@@ -17,6 +17,7 @@ Actively looking for Entry Level Software Development and Entry Level Data Analy
 🎒 DePaul University (Bachelor's, Computer Science) <br>
     Concentration in Software Development.<br>
 
+[![Denil's GitHub Stats](https://github-stats-extended.vercel.app/api?username=denildominic&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 
 ### Tech Stack & Tools
